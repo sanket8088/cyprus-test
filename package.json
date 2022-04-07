@@ -1,0 +1,23 @@
+{
+  "name": "cyprus-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket8088/cyprus-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanket8088/cyprus-test/issues"
+  },
+  "homepage": "https://github.com/sanket8088/cyprus-test#readme",
+  "dependencies": {
+    "cypress": "^9.5.3"
+  }
+}
